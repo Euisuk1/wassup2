@@ -1,4 +1,1 @@
-# wassup2
-test
-
-test
+이스트소프트 왓섭 2기
